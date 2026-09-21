@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "product": "CADENCE",
+  "latestVersion": "0.1.0-alpha.13",
+  "minimumSupportedVersion": "0.1.0-alpha.9",
+  "releaseNotes": "CADENCE 0.1.0-alpha.13: Review the Week redraft crash fixed; Approval Queue gains Select All and Approve All Shown; dialogs refuse to close while drafting. Fully quit CADENCE before installing.",
+  "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE-Updates/blob/main/CHANGELOG.md",
+  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE/releases"
+}
