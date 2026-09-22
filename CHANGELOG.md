@@ -5,6 +5,13 @@ CADENCE releases page (collaborator access during the alpha). Quit CADENCE
 fully before installing over an earlier version; your workspace, settings,
 and approvals are kept.
 
+## 0.1.0-alpha.14
+- Buffer rail: connect your own Buffer account, map channels, hand approved
+  posts over as drafts or scheduled posts; Send to Buffer, Send Approved Now,
+  automatic hand-off in Autonomous mode, Confirm Sent Posts.
+- Check for Updates reads this feed; support, privacy, terms, and security
+  pages on acasintelligence.com are linked from the app.
+
 ## 0.1.0-alpha.13
 - Redraft in Review the Week no longer crashes the app.
 - Approval Queue: Select All, Approve Selected, Reject Selected, Approve Newest
