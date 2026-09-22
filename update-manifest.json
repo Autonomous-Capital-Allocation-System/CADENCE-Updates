@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "CADENCE",
-  "latestVersion": "0.1.0-alpha.14",
+  "latestVersion": "0.1.0-alpha.15",
   "minimumSupportedVersion": "0.1.0-alpha.9",
-  "releaseNotes": "CADENCE 0.1.0-alpha.14: Buffer rail (hand approved posts to your own Buffer account as drafts or scheduled posts), live update feed, public support and privacy pages linked. Fully quit CADENCE before installing.",
+  "releaseNotes": "CADENCE 0.1.0-alpha.15: Buffer rail fixes from a live test (per-network details Buffer requires are sent for you; posts the calendar flags as needing attention are never handed over). Fully quit CADENCE before installing.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE/releases"
 }

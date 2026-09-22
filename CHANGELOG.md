@@ -5,6 +5,14 @@ CADENCE releases page (collaborator access during the alpha). Quit CADENCE
 fully before installing over an earlier version; your workspace, settings,
 and approvals are kept.
 
+## 0.1.0-alpha.15
+- Buffer rail: the per-network details Buffer requires (Facebook and Instagram
+  post type, Google Business type, YouTube title) are sent for you; without
+  them Buffer refused every Facebook and Instagram post.
+- A post the calendar flags as needing attention is never handed to Buffer,
+  even in draft mode.
+- Verified live against a real Buffer account.
+
 ## 0.1.0-alpha.14
 - Buffer rail: connect your own Buffer account, map channels, hand approved
   posts over as drafts or scheduled posts; Send to Buffer, Send Approved Now,
