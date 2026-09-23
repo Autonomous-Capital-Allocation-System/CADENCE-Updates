@@ -5,6 +5,12 @@ CADENCE releases page (collaborator access during the alpha). Quit CADENCE
 fully before installing over an earlier version; your workspace, settings,
 and approvals are kept.
 
+## 0.1.0-alpha.17
+- Telegram: /calendar, /reviews, and /outreach with no argument use your only
+  release, or list your releases to pick from.
+- The Telegram Control activity panel no longer shows two library warnings.
+- The sidebar logo is a full-width banner.
+
 ## 0.1.0-alpha.16
 - Security fix: the Telegram Control activity panel no longer shows the bot
   token. If yours was on screen, revoke it in @BotFather and paste the new

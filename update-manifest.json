@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "CADENCE",
-  "latestVersion": "0.1.0-alpha.16",
+  "latestVersion": "0.1.0-alpha.17",
   "minimumSupportedVersion": "0.1.0-alpha.9",
-  "releaseNotes": "CADENCE 0.1.0-alpha.16: security fix, the Telegram Control panel no longer shows the bot token (revoke and re-paste yours if it was on screen); posting-plan reminders arrive as one message. Fully quit CADENCE before installing.",
+  "releaseNotes": "CADENCE 0.1.0-alpha.17: Telegram /calendar, /reviews and /outreach default to your release; cleaner Telegram activity panel; full-width sidebar logo. Fully quit CADENCE before installing.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE/releases"
 }
