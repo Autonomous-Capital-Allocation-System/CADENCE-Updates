@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "CADENCE",
-  "latestVersion": "0.1.0-alpha.15",
+  "latestVersion": "0.1.0-alpha.16",
   "minimumSupportedVersion": "0.1.0-alpha.9",
-  "releaseNotes": "CADENCE 0.1.0-alpha.15: Buffer rail fixes from a live test (per-network details Buffer requires are sent for you; posts the calendar flags as needing attention are never handed over). Fully quit CADENCE before installing.",
+  "releaseNotes": "CADENCE 0.1.0-alpha.16: security fix, the Telegram Control panel no longer shows the bot token (revoke and re-paste yours if it was on screen); posting-plan reminders arrive as one message. Fully quit CADENCE before installing.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE/releases"
 }

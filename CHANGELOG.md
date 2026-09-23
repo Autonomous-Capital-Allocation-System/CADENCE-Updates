@@ -5,6 +5,13 @@ CADENCE releases page (collaborator access during the alpha). Quit CADENCE
 fully before installing over an earlier version; your workspace, settings,
 and approvals are kept.
 
+## 0.1.0-alpha.16
+- Security fix: the Telegram Control activity panel no longer shows the bot
+  token. If yours was on screen, revoke it in @BotFather and paste the new
+  one in Settings.
+- Posting-plan reminders found together arrive as one Telegram message.
+- Bot output is UTF-8 on every platform.
+
 ## 0.1.0-alpha.15
 - Buffer rail: the per-network details Buffer requires (Facebook and Instagram
   post type, Google Business type, YouTube title) are sent for you; without
