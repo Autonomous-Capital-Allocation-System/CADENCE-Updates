@@ -5,6 +5,9 @@ CADENCE releases page (collaborator access during the alpha). Quit CADENCE
 fully before installing over an earlier version; your workspace, settings,
 and approvals are kept.
 
+## 1.0.0
+- First release for sale: code-signed installers, signed in-app updates (new feed v1/latest.json), licensing with a sample-release trial, ten interface languages, Claude 5.5 presets. Installers are on the public CADENCE-Updates release page.
+
 ## 0.1.0-alpha.17
 - Telegram: /calendar, /reviews, and /outreach with no argument use your only
   release, or list your releases to pick from.

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "CADENCE",
-  "latestVersion": "0.1.0-alpha.17",
+  "latestVersion": "1.0.0",
   "minimumSupportedVersion": "0.1.0-alpha.9",
-  "releaseNotes": "CADENCE 0.1.0-alpha.17: Telegram /calendar, /reviews and /outreach default to your release; cleaner Telegram activity panel; full-width sidebar logo. Fully quit CADENCE before installing.",
-  "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE-Updates/blob/main/CHANGELOG.md",
-  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE/releases"
+  "releaseNotes": "CADENCE 1.0.0: the first release for sale. Code-signed installers, signed in-app updates from now on, licensing. Download it from the release page; quit CADENCE fully first. Your workspace and settings are kept.",
+  "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE-Updates/releases/tag/v1.0.0",
+  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/CADENCE-Updates/releases/tag/v1.0.0"
 }
